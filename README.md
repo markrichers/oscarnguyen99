@@ -50,7 +50,14 @@
 - 🔭[Data-Engineer-AWS=Signify](https://github.com/oscarnguyen99/Signify-DataEngineerProject) - AWS Cloud Data-Engineer Project intern at Signify. 
 - 🔭[Mega-Air-Quality-Project](https://github.com/oscarnguyen99/ECO-Villages-AI-Projectt) - International AI project with 3 countries. 
 
+### Used to be AI Lover: 
 
+![1636299008717](https://user-images.githubusercontent.com/50198601/212081601-3bdce926-4012-4c9c-b60e-3dcb2d4bc332.jpeg)
+
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 <br />
 <br />
