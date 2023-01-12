@@ -41,7 +41,8 @@
 <br />
 <br />
 -
-### 🔭 Main Project Data Lead:
+
+### Main Project Data Lead:
 
 - 🔭[Data Azure Project Healthcare](https://github.com/oscarnguyen99/HealthCare-Mood-Project) - Azure Cloud with MOOD Metric Ring aim for Autism Kid. 
 - 🔭[NewYorkTaxi-DataScienceProject](https://github.com/oscarnguyen99/NewYorkTaxi-DataScienceProject) - Taxi Analysis using algorithm and AI technique. 
