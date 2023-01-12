@@ -39,7 +39,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_apache.png?raw=true" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />
 <br/>
-
+----------------------------------------------
 <br/>
 
 - [Data Azure Project Healthcare](https://github.com/oscarnguyen99/HealthCare-Mood-Project) - Azure Cloud with MOOD Metric Ring aim for Autism Kid. 
