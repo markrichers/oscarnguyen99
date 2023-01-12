@@ -42,12 +42,12 @@
 <br />
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=ECO-Villages-AI-Project&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/ECO-Villages-AI-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=Python-Covid19-Project-ML&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/Python-Covid19-Project-ML)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=Fashion-Sale-PowerBi-Analytic&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/Fashion-Sale-PowerBi-Analytic)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=Signify-DataEngineerProject&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/Signify-DataEngineerProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=NewYorkTaxi-DataScienceProject&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/NewYorkTaxi-DataScienceProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=SQLProject&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/SQLProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oscarnguyen99&repo=ECO-Villages-AI-Project&theme=dark&hide_border=true&bg_color=444444)](https://github.com/oscarnguyen99/ECO-Villages-AI-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oscarnguyen99&repo=Python-Covid19-Project-ML&theme=dark&hide_border=true&bg_color=444444)](https://github.com/oscarnguyen99/Python-Covid19-Project-ML)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oscarnguyen99&repo=Fashion-Sale-PowerBi-Analytic&theme=dark&hide_border=true&bg_color=444444)](https://github.com/oscarnguyen99/Fashion-Sale-PowerBi-Analytic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oscarnguyen99&repo=Signify-DataEngineerProject&theme=dark&hide_border=true&bg_color=444444)](https://github.com/oscarnguyen99/Signify-DataEngineerProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oscarnguyen99&repo=NewYorkTaxi-DataScienceProject&theme=dark&hide_border=true&bg_color=444444)](https://github.com/oscarnguyen99/NewYorkTaxi-DataScienceProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oscarnguyen99&repo=SQLProject&theme=dark&hide_border=true&bg_color=444444)](https://github.com/oscarnguyen99/SQLProject)
 
 
 
