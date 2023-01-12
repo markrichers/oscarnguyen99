@@ -36,9 +36,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_apache.png?raw=true" />
+<img align="left" alt="Terminal" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />
 
-
-
+<br />
+<br />
 
 - [Data Azure Project Healthcare](https://github.com/oscarnguyen99/HealthCare-Mood-Project) - Azure Cloud with MOOD Metric Ring aim for Autism Kid. 
 - [NewYorkTaxi-DataScienceProject](https://github.com/oscarnguyen99/NewYorkTaxi-DataScienceProject) - Taxi Analysis using algorithm and AI technique. 
