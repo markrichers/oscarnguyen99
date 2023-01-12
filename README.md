@@ -1,6 +1,5 @@
-### Hi there 👋
 
-### Hi there 👋
+### Hi gloabl-people-friend 👋
 
 - 🔭 I’m currently working on data-engineer studying and Signify development Project in Brainport of Netherland. 
 - 🌱 I’m currently being a software data developer in Netherlands.
